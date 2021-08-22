@@ -1,8 +1,8 @@
 - **一、咨询类产品 ++EY战略助手++**
   - 1.1 Fintech对金融行业的影响
     - [EY洞察报告示例1-Fintech对行业影响](/Advisory/FinTech/影响未来金融行业的七大科技要素)
-    - EY洞察报告示例2-Fintech对行业影响的实际场景
-    - EY洞察报告示例3-Fintech对保险行业的影响
+    - [EY洞察报告示例2-Fintech对行业影响的实际场景](/Advisory/Fintech/金融科技用例图谱全景扫描)
+    - [EY洞察报告示例3-Fintech对保险行业的影响](/Advisory/Fintech/用物联网构建保险行业数字生态系统)
   - 1.2 数字化转型战略设计框架
     - EY数字化转型框架
     - EY数字化转型框架实际案例1-海尔集团
