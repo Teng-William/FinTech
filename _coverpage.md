@@ -1,9 +1,8 @@
-@ -1,34 +0,0 @@
-![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
+[<img src="https://z3.ax1x.com/2021/08/23/hCgJ7n.png" alt="hCgJ7n.png" style="zoom: 33%;" />](https://imgtu.com/i/hCgJ7n)
 
-## AI & CS & SE
+## 关于产品与解决方案的构想
 
-- 做一个眼中有梁木的人，记录一路走来学习的计算机专业知识 ，力求完美构建 AI & CS & SE 知识体系
+- 初步分三个层面
 
 <img src="https://img.shields.io/badge/version-v2.0.0-green.svg" data-origin="https://img.shields.io/badge/version-v2.0.0-green.svg" alt=""> 
 <img src="https://img.shields.io/github/stars/wugenqiang/NoteBook" data-origin="https://img.shields.io/github/stars/wugenqiang/NoteBook" alt=""> 
@@ -23,12 +22,11 @@
 
 <br>
 
-[GitHub](https://github.com/wugenqiang/NoteBook)
+[GitHub](https://github.com/Teng-William/FinTech)
 [开始阅读](/README.md)
 
 
 
 <!-- 背景色 -->
 ![color](#fff)
-
 
