@@ -1,4 +1,1 @@
-# 产品方面的思考
-
-> 1、咨询产品；2、行业解决方案；3、落地方案
-
+![Products](https://raw.githubusercontent.com/WilliamTeng/imgs/master/20210823214717.svg)

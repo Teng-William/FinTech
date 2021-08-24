@@ -1,8 +1,8 @@
-[<img src="https://z3.ax1x.com/2021/08/23/hCgJ7n.png" alt="hCgJ7n.png" style="zoom: 33%;" />](https://imgtu.com/i/hCgJ7n)
+[<img src="https://z3.ax1x.com/2021/08/23/hCgJ7n.png" alt="hCgJ7n.png" style="zoom: 28%;" />](https://imgtu.com/i/hCgJ7n)
 
 ## 关于产品与解决方案的构想
 
-- 初步分三个层面
+- 2021年8月
 
 <img src="https://img.shields.io/badge/version-v2.0.0-green.svg" data-origin="https://img.shields.io/badge/version-v2.0.0-green.svg" alt=""> 
 <img src="https://img.shields.io/github/stars/wugenqiang/NoteBook" data-origin="https://img.shields.io/github/stars/wugenqiang/NoteBook" alt=""> 
@@ -22,8 +22,8 @@
 
 <br>
 
-[GitHub](https://github.com/Teng-William/FinTech)
-[开始阅读](/README.md)
+[构思思路](/README)
+[开始阅读](/Advisory/FinTech/影响未来金融行业的七大科技要素)
 
 
 
