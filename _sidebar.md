@@ -7,7 +7,8 @@
     - [EY数字化转型框架](/Advisory/DT/数字化转型框架)
     - [EY数字化转型框架实际案例1-中国银行](/Advisory/DT/DT案例中国银行数字化转型)
   - 1.3 CIO助手（目前共有78项）
-    - [CIO助手- IT成本优化工具](/Advisory/CIOA/企业IT降本增效工具集)
+    - [CIO助手示例- 企业数字化成熟度评估工具](/Advisory/CIOA/企业数字化转型成熟度评估)
+    - [CIO助手示例- IT成本优化工具](/Advisory/CIOA/企业IT降本增效工具集)
 
 
 
