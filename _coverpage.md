@@ -5,7 +5,7 @@
 - 2021年9月
 
 ![](_media/version-v2.1.svg)
-![](_media/coverage-83%-blue.svg)
+![](_media/coverage-83-blue.svg)
 ![](_media/product-designing-blue.svg)
 ![](_media/license-MIT-green.svg)
 
