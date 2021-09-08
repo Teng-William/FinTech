@@ -1,13 +1,13 @@
-<div align="center"><img src="https://z3.ax1x.com/2021/09/08/h7SjG4.png"  style="zoom: 78%;" /></div>
+<div align="center"><img src="https://z3.ax1x.com/2021/09/08/h7SjG4.png"  style="zoom: 72%;" /></div>
 
 ## 关于产品与解决方案的构想
 
 - 2021年9月
 
 ![](_media/version-v2.1.svg)
-<img src="https://img.shields.io/badge/coverage-83%25-blue?logo=GitHub%20Sponsors.svg"> 
-<img src="https://img.shields.io/badge/product-designing-bri?logo=webflow.svg">
-<img src="https://img.shields.io/badge/license-MIT-green?logo=Lamborghini.svg">
+![](_media/coverage-83%-blue.svg)
+![](_media/product-designing-blue.svg)
+![](_media/license-MIT-green.svg)
 
 <br>
 
