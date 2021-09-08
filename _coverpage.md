@@ -1,8 +1,8 @@
-[<img src="https://z3.ax1x.com/2021/08/23/hCgJ7n.png" alt="hCgJ7n.png" style="zoom: 28%;" />](https://imgtu.com/i/hCgJ7n)
+<div align="center"><img src="https://z3.ax1x.com/2021/09/08/hTIpr9.png"  style="zoom: 38%;" /></div>
 
 ## 关于产品与解决方案的构想
 
-- 2021年8月
+- 2021年9月
 
 <img src="https://img.shields.io/badge/version-v2.0.0-green.svg" data-origin="https://img.shields.io/badge/version-v2.0.0-green.svg" alt=""> 
 <img src="https://img.shields.io/github/stars/wugenqiang/NoteBook" data-origin="https://img.shields.io/github/stars/wugenqiang/NoteBook" alt=""> 
