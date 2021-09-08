@@ -4,10 +4,10 @@
 
 - 2021年9月
 
-<img src="https://img.shields.io/badge/versin-v2.1.1-green" > 
-<img src="https://img.shields.io/github/stars/wugenqiang/NoteBook" data-origin="https://img.shields.io/github/stars/wugenqiang/NoteBook" alt=""> 
-<img src="https://img.shields.io/github/forks/wugenqiang/NoteBook" data-origin="https://img.shields.io/github/forks/wugenqiang/NoteBook" alt="">
-<img src="https://img.shields.io/github/license/wugenqiang/NoteBook" data-origin="https://img.shields.io/github/license/wugenqiang/NoteBook" alt="">
+<img src="https://img.shields.io/badge/version-v2.1.1-green?logo=github.svg" > 
+<img src="https://img.shields.io/badge/coverage-83%25-blue?logo=GitHub%20Sponsors.svg"> 
+<img src="https://img.shields.io/badge/product-designing-bri?logo=webflow.svg">
+<img src="https://img.shields.io/badge/license-MIT-green?logo=Lamborghini.svg">
 
 <br>
 
