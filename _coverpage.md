@@ -1,4 +1,4 @@
-<div align="center"><img src="https://z3.ax1x.com/2021/09/08/hTIpr9.png"  style="zoom: 38%;" /></div>
+<div align="center"><img src="https://z3.ax1x.com/2021/09/08/h7SjG4.png"  style="zoom: 78%;" /></div>
 
 ## 关于产品与解决方案的构想
 
