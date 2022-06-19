@@ -1,6 +1,6 @@
 <div align="center"><img src="https://z3.ax1x.com/2021/11/08/IGH1qH.png" style="zoom:98%;"/></div>
 
-## 关于产品与解决方案的构想
+## 产品与解决方案构想
 
 - 深入行业研究，持续产品创新，为客户排忧解难！
 - 2022年6月
@@ -13,6 +13,8 @@
 <br>
 
 <br>
+
+* 团队内部交流使用
 
 <span id="busuanzi_container_site_pv">
     👀 本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
