@@ -1,21 +1,21 @@
 (金融行业为例，横向覆盖多行业)
 
-- **一、咨询类产品 - (战略助手)**
+- **一、咨询类产品 - (战略助手) **
   - 1.1 Fintech对金融行业的影响
-    - [KPMG洞察报告示例1-Fintech对行业影响](/Advisory/FinTech/影响未来金融行业的七大科技要素)
-    - [KPMG洞察报告示例2-Fintech对行业影响的实际场景](/Advisory/FinTech/金融科技用例图谱全景扫描)
-    - [KPMG洞察报告示例3-Fintech如何助力绿色金融](/Advisory/FinTech/FinTech如何助力绿色金融)
-    - [KPMG洞察报告示例4-Fintech对保险行业的影响](/Advisory/FinTech/用物联网构建保险行业数字生态系统)
+    - [K洞察报告示例1-Fintech对行业影响](/Advisory/FinTech/影响未来金融行业的七大科技要素)
+    - [K洞察报告示例2-Fintech对行业影响的实际场景](/Advisory/FinTech/金融科技用例图谱全景扫描)
+    - [K洞察报告示例3-Fintech如何助力绿色金融](/Advisory/FinTech/FinTech如何助力绿色金融)
+    - [K洞察报告示例4-Fintech对保险行业的影响](/Advisory/FinTech/用物联网构建保险行业数字生态系统)
   - 1.2 数字化转型战略设计框架
-    - [KPMG数字化转型框架](/Advisory/DT/数字化转型框架)
-    - [KPMG数字化转型框架实际案例1-中国银行](/Advisory/DT/DT案例中国银行数字化转型)
+    - [K数字化转型框架](/Advisory/DT/数字化转型框架)
+    - [K数字化转型框架实际案例1-中国银行](/Advisory/DT/DT案例中国银行数字化转型)
   - 1.3 CIO助手（目前共有78项）
     - [CIO助手示例- 企业数字化成熟度评估工具](/Advisory/CIOA/企业数字化转型成熟度评估)
     - [CIO助手示例- IT成本优化工具](/Advisory/CIOA/企业IT降本增效工具集)
 
 
 
-- **二、金融行业解决方案**
+- **二、行业解决方案 - 金融行业为例**
 
   - 2.1 金融大数据产品
     - 2.1.1 金融大数据解决方案
